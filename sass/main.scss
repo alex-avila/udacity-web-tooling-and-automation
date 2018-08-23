@@ -1,0 +1,14 @@
+$blue: #0DF;
+$background: #007080;
+$font-family: 'Avenir';
+$font-size: 30px;
+
+body {
+	font-family: $font-family;
+	font-size: $font-size;
+	background: $background;
+}
+
+.hello {
+	color: $blue;
+}
